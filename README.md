@@ -15,6 +15,7 @@ christopher.blackwell@furman.edu
 - [Cite Architecture Overview](https://cite-architecture.github.io)
 - [UCC Cork Workshop CEX files](https://github.com/Eumaeus/CTS_Workshop_Cork)
 - [CiteApp Repository](https://github.com/cite-architecture/CITE-App)
+- [ICT2 (the Image Citation Tool)](http://homermultitext.org/ict2/)
 
 ## Rights
 
